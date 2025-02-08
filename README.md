@@ -96,4 +96,3 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 ## Kesimpulan
 
 Dengan mengikuti langkah-langkah di atas, Anda seharusnya dapat menginstal dan menjalankan chat bot Ollama dengan sukses. Jika Anda memiliki pertanyaan lebih lanjut, jangan ragu untuk bertanya.
-```
