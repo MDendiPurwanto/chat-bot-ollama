@@ -19,9 +19,27 @@ Sebelum memulai instalasi, pastikan Anda memiliki hal-hal berikut:
   npm -v
   ```
 
-## Langkah-langkah Instalasi
+## Instalasi Ollama
 
-Ikuti langkah-langkah di bawah ini untuk menginstal dan menjalankan proyek:
+Untuk menggunakan Ollama, Anda perlu mengunduh dan menginstalnya terlebih dahulu. Berikut adalah langkah-langkah untuk menginstal Ollama di berbagai sistem operasi:
+
+### Download Ollama
+
+- **macOS**: 
+  1. Kunjungi [halaman unduhan Ollama untuk macOS](https://ollama.com/download).
+  2. Ikuti instruksi instalasi yang disediakan di layar.
+
+- **Linux**: 
+  1. Kunjungi [halaman unduhan Ollama untuk Linux](https://ollama.com/download).
+  2. Ikuti instruksi instalasi yang disediakan di layar.
+
+- **Windows**: 
+  1. Kunjungi [halaman unduhan Ollama untuk Windows](https://ollama.com/download).
+  2. Ikuti instruksi instalasi yang disediakan di layar.
+
+## Langkah-langkah Instalasi Proyek
+
+Setelah Ollama terinstal, Anda dapat melanjutkan dengan langkah-langkah berikut untuk menginstal dan menjalankan proyek:
 
 1. **Clone Repository**
 
@@ -77,6 +95,19 @@ Repository ini terdiri dari beberapa komponen kunci:
 - **`tailwind.config.js`**: Konfigurasi untuk Tailwind CSS.
 - **`eslint.config.js`**: Konfigurasi untuk ESLint.
 
+## Aktivitas dan Statistik
+
+- **Stars**: 0 stars (menunjukkan tidak ada minat publik saat ini).
+- **Forks**: 0 forks (menunjukkan tidak ada yang menyalin repositori).
+- **Watchers**: 1 watcher (menunjukkan setidaknya satu pengguna memantau repositori untuk perubahan).
+
+### Bahasa Pemrograman
+
+Proyek ini terdiri dari beberapa bahasa pemrograman:
+- **JavaScript**: 88.3%
+- **HTML**: 6.3%
+- **CSS**: 5.4%
+
 ## Troubleshooting
 
 Jika Anda mengalami masalah selama instalasi, pastikan untuk memeriksa:
@@ -92,7 +123,3 @@ Jika Anda ingin berkontribusi pada proyek ini, silakan buat pull request atau bu
 ## Lisensi
 
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-
-## Kesimpulan
-
-Dengan mengikuti langkah-langkah di atas, Anda seharusnya dapat menginstal dan menjalankan chat bot Ollama dengan sukses. Jika Anda memiliki pertanyaan lebih lanjut, jangan ragu untuk bertanya.
